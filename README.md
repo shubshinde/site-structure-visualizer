@@ -1,4 +1,4 @@
-# Site Structure Visualizer - Plugin
+# Site Structure Visualizer - WP Plugin
  
 *  Wordpress Plugin for visualizing site structure in tree format
 *  Technologies used : D3.js, Wordpress, Bootstrap.css
